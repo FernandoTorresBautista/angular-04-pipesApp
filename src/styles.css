@@ -5,6 +5,6 @@ html, body {
   font-family: var( --font-family );
 }
 
-.text-color{
+.text-layout{
   color:var(--text-color);
 }
